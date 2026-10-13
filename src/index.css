@@ -1,0 +1,10 @@
+body {
+    display: flex;
+    flex-direction: row;
+    background:seagreen;
+    justify-content:space-between;
+}
+
+h1, h2, p {
+    color: white;
+}
